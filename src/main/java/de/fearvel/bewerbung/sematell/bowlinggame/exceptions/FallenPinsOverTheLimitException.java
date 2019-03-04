@@ -1,4 +1,4 @@
-package de.Fearvel.Bewerbung.Sematell.BowlingGame.Exceptions;
+package de.fearvel.bewerbung.sematell.bowlinggame.exceptions;
 
 /**
  * Exception for the case that more than 11 pins should fall
@@ -13,6 +13,7 @@ public class FallenPinsOverTheLimitException extends Exception {
      *
      * @param message
      */
+    // TODO - Michael Simon: ist unused ... kann gelöscht werden
     public FallenPinsOverTheLimitException(String message) {
         super(message);
     }

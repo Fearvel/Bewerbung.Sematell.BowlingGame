@@ -1,4 +1,4 @@
-package de.Fearvel.Bewerbung.Sematell.BowlingGame;
+package de.fearvel.bewerbung.sematell.bowlinggame;
 
 /**
  * Main class

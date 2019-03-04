@@ -1,4 +1,4 @@
-package de.Fearvel.Bewerbung.Sematell.BowlingGame.Exceptions;
+package de.fearvel.bewerbung.sematell.bowlinggame.exceptions;
 
 
 /**
@@ -14,6 +14,7 @@ public class FrameEndedException extends Exception {
      *
      * @param message
      */
+    // TODO - Michael Simon: ist unused ... kann gelöscht werden
     public FrameEndedException(String message) {
         super(message);
     }
